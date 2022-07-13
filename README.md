@@ -4,7 +4,7 @@
 
 A successful movie not only entertains the audience but also brings tremendous profit to movie companies.
 
-The TMDb Movie dataset is a collection of information on around 10000 movies. For each movie, the dataset includes information on aspects such as popularity, budget, revenue, directors, and other.
+The [TMDb Movie dataset](https://github.com/Amjad-M/tmdb-Movies-DAND-/blob/master/tmdb-movies.csv) is a collection of information on around 10000 movies. For each movie, the dataset includes information on aspects such as popularity, budget, revenue, directors, and other.
 
 *This project was done as part of Udacity's Data Analyst Nanodegree.*
 
