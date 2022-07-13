@@ -9,6 +9,7 @@ The [TMDb Movie dataset](https://github.com/Amjad-M/tmdb-Movies-DAND-/blob/maste
 *This project was done as part of Udacity's Data Analyst Nanodegree.*
 
 
+
 ## Outline of analysis
 >* Explore the data and ask research questions that could be answered using the data.
 >* Performed necessary assesing and  cleaning steps to unify formats, deal with data problems and prepare the dataset for analysis using pandas.
