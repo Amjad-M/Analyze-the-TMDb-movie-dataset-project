@@ -16,7 +16,7 @@ The [TMDb Movie dataset](https://github.com/Amjad-M/tmdb-Movies-DAND-/blob/maste
 
 
 ## Research Questions
-> What movie genre has had the most popularity in the last ten year?
-> What is the rate of budget per genre in the last ten years?
-> Is there a relationship between popularity and average vote?
-> Which genre has the highest number of movies generated in the last five years?
+> 1. What movie genre has had the most popularity in the last ten year?
+> 2. What is the rate of budget per genre in the last ten years?
+> 3. Is there a relationship between popularity and average vote?
+> 4. Which genre has the highest number of movies generated in the last five years?
